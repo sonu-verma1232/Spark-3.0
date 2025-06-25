@@ -10,6 +10,7 @@ public class LinkedListDemo {
         ll.add(30);
         ll.add(40);
         ll.add(50);
+        ll.add(60);
 
         System.out.println(ll);
     }
